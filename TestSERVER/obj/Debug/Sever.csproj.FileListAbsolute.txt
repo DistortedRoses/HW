@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\TestSERVER\bin\Debug\TestSERVER.exe.config
-C:\Users\User\Desktop\TestSERVER\bin\Debug\TestSERVER.exe
-C:\Users\User\Desktop\TestSERVER\bin\Debug\TestSERVER.pdb
-C:\Users\User\Desktop\TestSERVER\obj\Debug\Sever.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\TestSERVER\obj\Debug\TestSERVER.exe
-C:\Users\User\Desktop\TestSERVER\obj\Debug\TestSERVER.pdb
-C:\Users\User\Desktop\TestSERVER\obj\Debug\Sever.csprojAssemblyReference.cache
